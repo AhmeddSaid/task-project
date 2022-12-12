@@ -15,12 +15,12 @@ const Welcome = () => {
             <Subhead>We're glad you're here! Sign up to start</Subhead>
           </Head>
           <ButtonHolder>
-            <Button to="/signup">
+            <Button to="/Task-Project/signup">
               <Text>Get Started</Text>
             </Button>
           </ButtonHolder>
         </Content>
-      </Container>
+      </Container>``
     </WelcomePage>
   );
 };

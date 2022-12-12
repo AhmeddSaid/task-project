@@ -141,7 +141,7 @@ const Signup = () => {
         .then((data) => console.log(data))
         .catch((err) => console.log(err));
 
-      navigate("/Task-Project/success");
+      navigate("/task-project/success");
     }
   };
 

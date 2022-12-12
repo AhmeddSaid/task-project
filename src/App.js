@@ -11,15 +11,15 @@ const App = () => {
       <Routes>
         <Route
           exact
-          path="/Task-Project"
+          path="/task-project"
           element={<Welcome />}
         />
         <Route
-          path="/Task-Project/signup"
+          path="/task-project/signup"
           element={<Signup />}
         />
         <Route
-          path="/Task-Project/success"
+          path="/task-project/success"
           element={<Success />}
         />
       </Routes>

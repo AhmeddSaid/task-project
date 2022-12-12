@@ -15,7 +15,7 @@ const Welcome = () => {
             <Subhead>We're glad you're here! Sign up to start</Subhead>
           </Head>
           <ButtonHolder>
-            <Button to="/Task-Project/signup">
+            <Button to="/task-project/signup">
               <Text>Get Started</Text>
             </Button>
           </ButtonHolder>

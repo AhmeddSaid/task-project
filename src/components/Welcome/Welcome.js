@@ -20,7 +20,7 @@ const Welcome = () => {
             </Button>
           </ButtonHolder>
         </Content>
-      </Container>``
+      </Container>
     </WelcomePage>
   );
 };
